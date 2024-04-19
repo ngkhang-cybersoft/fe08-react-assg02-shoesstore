@@ -54,9 +54,6 @@ const Modal = (props) => {
             >
               Close
             </button>
-            <button type="button" className="btn btn-primary">
-              Save
-            </button>
           </div>
         </div>
       </div>
